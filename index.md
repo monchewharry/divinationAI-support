@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Welcome to Divination.ai Support
 ---
-
-# Welcome to Divination.ai Support
 
 ![App Logo](assets/images/app-logo.jpg)
 
