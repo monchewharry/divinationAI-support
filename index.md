@@ -3,7 +3,7 @@ layout: home
 title: Welcome to Divination.ai Support
 ---
 
-![App Logo](assets/images/app-logo.jpg)
+![App Logo](assets/images/app-logo.jpg){: .app-logo}
 
 ## About the App
 
@@ -11,8 +11,8 @@ title: Welcome to Divination.ai Support
 
 ## App Preview
 
-![App Preview](assets/images/preview1.png)
-![App Preview](assets/images/preview2.png)
+![App Preview](assets/images/preview1.png){: .preview-image}
+![App Preview](assets/images/preview2.png){: .preview-image}
 
 ## Contact Support
 
